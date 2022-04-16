@@ -24,7 +24,7 @@
 - Estrutura básica e prática com align self
 
 
-## Imagen do projeto
+## Imagem do projeto
 
 
 <div align="center">
